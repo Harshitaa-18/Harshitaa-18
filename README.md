@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 Hi there! I'm Harshita Seth 👋
 
 Welcome to my GitHub profile! I'm an aspiring web developer and a 4th year B.Tech student passionate about building user-friendly and innovative web solutions. I'm constantly exploring new technologies and frameworks to enhance my skills and create impactful projects.
+
 🔭 What I'm Currently Working On
 
 I'm currently focusing on honing my skills in front-end development and diving deeper into JavaScript frameworks like React.js and Vue.js. I'm working on personal projects to apply my knowledge and gain practical experience in building responsive web applications.
+
 🌱 My Skill Set
 
     HTML/CSS
